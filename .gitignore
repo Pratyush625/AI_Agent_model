@@ -11,3 +11,4 @@ wheels/
 ai_env/
 .env
 syntax.txt
+limit_grok.png
